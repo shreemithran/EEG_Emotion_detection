@@ -14,5 +14,5 @@ EEG emotion detection research is ongoing, and there are still challenges to be 
 
 EEG emotion detection has the potential to advance our understanding of the neural basis of emotions and contribute to the development of more effective interventions for emotional disorders.
 
-This project was done during my 6th semester as a Mini project.
+This project was done during my 6th semester(2022) as a Mini project.
 
